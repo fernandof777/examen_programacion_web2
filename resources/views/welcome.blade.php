@@ -132,8 +132,7 @@
                                 Integrantes
                             </h3>
                             <ul class="text-[#706f6c] dark:text-[#A1A09A] space-y-1 text-sm leading-5">
-                                <li>1. Luis Fernando Felipe Salvatierra Manaca</li>
-                                <li>2. Luis Fernando Hurtado</li>
+                                <li>Luis Fernando Felipe Salvatierra Manaca</li>
                             </ul>
                         </div>
 

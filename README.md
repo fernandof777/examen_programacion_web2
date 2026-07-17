@@ -12,7 +12,6 @@
 | # | Nombre |
 |---|--------|
 | 1 | Luis Fernando Felipe Salvatierra Manaca |
-| 2 | Luis Fernando Hurtado |
 
 ---
 
@@ -68,7 +67,7 @@ Los wireframes representan la estructura y distribución de elementos en pantall
 ---
 
 ### Wireframe 3 — Gestión Comercial: Clientes & Repuestos/Almacén
-*Integrante: Luis Fernando Hurtado*
+*Integrante: Luis Fernando Felipe Salvatierra Manaca*
 
 ![Wireframe Clientes y Repuestos](public/img/wireframes/03_wireframe_clientes_repuestos.png)
 
@@ -81,7 +80,7 @@ Los wireframes representan la estructura y distribución de elementos en pantall
 ---
 
 ### Wireframe 4 — Reportes: Reparación & Diagnóstico
-*Integrante: Luis Fernando Hurtado*
+*Integrante: Luis Fernando Felipe Salvatierra Manaca*
 
 ![Wireframe Reportes](public/img/wireframes/04_wireframe_reportes.png)
 
@@ -130,7 +129,7 @@ Los mockups representan el diseño visual final de la aplicación con colores, t
 ---
 
 ### Mockup 3 — Administración: Gestión de Usuarios & Roles
-*Integrante: Luis Fernando Hurtado*
+*Integrante: Luis Fernando Felipe Salvatierra Manaca*
 
 ![Mockup Usuarios y Roles](public/img/mockups/03_mockup_usuarios_roles.png)
 
@@ -144,7 +143,7 @@ Los mockups representan el diseño visual final de la aplicación con colores, t
 ---
 
 ### Mockup 4 — Gestión Comercial: Clientes
-*Integrante: Luis Fernando Hurtado*
+*Integrante: Luis Fernando Felipe Salvatierra Manaca*
 
 ![Mockup Clientes](public/img/mockups/04_mockup_clientes.png)
 
